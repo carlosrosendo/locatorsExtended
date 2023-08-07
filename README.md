@@ -1,1 +1,2 @@
 # locatorsExtended
+This shows you to further identify web elements that may be more difficult to identify using parent child relationship on CSS and Path. Additionally identifying elements by text, link text, index, and combining index with the parent child relationship. This was created using Python Selenium Automatic on PyCharm to run. 
